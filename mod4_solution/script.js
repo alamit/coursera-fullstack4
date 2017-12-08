@@ -41,7 +41,7 @@ WARNING!!! WARNING!!!
     'Laura',
     'Jim'];
 
-  for (var i = 1; i < names.length; ++i) {
+  for (var i = 0; i < names.length; ++i) {
     var name = names[i];
     var firstLetter = name.charAt(0).toLowerCase();
 
