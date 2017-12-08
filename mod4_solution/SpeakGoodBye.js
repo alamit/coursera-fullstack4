@@ -12,5 +12,5 @@
   };
 
   this.byeSpeaker = byeSpeaker;
-  
+
 })();
